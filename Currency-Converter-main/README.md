@@ -1,6 +1,6 @@
 # Currency Converter
 
-This is a currency converter web application that fetches real-time data for currency conversion rates using HTML, CSS, and JavaScript. The application allows users to convert currencies by selecting the source currency and the target currency, and it provides an interface to easily switch between the two selected values. Visit the webpage here: https://alkaison.github.io/Currency-Converter
+This is a currency converter web application that fetches real-time data for currency conversion rates using HTML, CSS, and JavaScript. The application allows users to convert currencies by selecting the source currency and the target currency, and it provides an interface to easily switch between the two selected values. 
 
 ## Features
 
@@ -15,9 +15,7 @@ This is a currency converter web application that fetches real-time data for cur
 ![Currency Converter](https://i.postimg.cc/mrFTzR1D/Currency-Converter1.png)
 ![Currency Converter](https://i.postimg.cc/qvFkvgRS/Currency-Converter2.png)
 
-## Usage
 
-- Visit the webpage [here](https://alkaison.github.io/Currency-Converter "Currency Converter") to try it out instantly.
 
 ### Self Deploying 
 
@@ -42,10 +40,6 @@ Please note that you may need to sign up for an API key and update the code with
 - HTML
 - CSS
 - JavaScript (Modern)
-
-## Credits
-
-This project was developed by [Alkaison](https://github.com/Alkaison "GitHub Profile"). If you have any questions or suggestions, feel free to [contact me](https://twitter.com/Alkaison "Twitter Profile").
 
 ## License
 
